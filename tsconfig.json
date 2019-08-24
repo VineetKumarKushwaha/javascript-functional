@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "outDir": "build/compiled",
+      "noImplicitAny": true,
+      "declaration": true
+    },
+    "lib": [
+        "es2017",
+        "esnext.asynciterable"
+    ],
+    "include": [
+      "src"
+    ]
+  }
